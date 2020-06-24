@@ -1,5 +1,5 @@
 # Docker Lab 2: Building an image: an example with Flask
-###### tags: `Bremen_March_2020` `Docker` 
+###### tags: `Docker` `2021_2020`
 
 
 >**Note:** This lab is based on [Docker Tutorials and Labs](https://github.com/docker/labs/blob/master/beginner/chapters/webapps.md#23-create-your-first-image).
